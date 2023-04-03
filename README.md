@@ -1,8 +1,3 @@
-
-<div align="center">
-<img width="92%" height = "480px" src="https://cutewallpaper.org/21/aesthetic-laptop-wallpaper/21-Aesthetic-Laptop-Wallpapers-on-WallpaperSafari.jpg" alt="cover" />
-</div>
-
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 <p align='center'>
 
